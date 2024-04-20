@@ -1,2 +1,2 @@
-# Classification-of-Potato-Plant-Diseases
+# Classification-of-Potato-Plant-Disease <!-- omit in toc -->
  
